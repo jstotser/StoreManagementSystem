@@ -1,0 +1,1 @@
+Ignore this, it was added to allow the creation of an empty git folder.
