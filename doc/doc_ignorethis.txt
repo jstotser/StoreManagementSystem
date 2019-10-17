@@ -1,0 +1,1 @@
+Ignore this file, it was added to allow the creation of the "doc" folder.
